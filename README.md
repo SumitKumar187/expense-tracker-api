@@ -75,3 +75,11 @@ Swagger UI:
 
 ```bash
 http://localhost:8080/swagger-ui/index.html
+```
+---
+
+## Screenshots
+
+### Swagger UI
+![Swagger UI](screenshots/swagger-ui.png)
+
